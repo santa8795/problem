@@ -18,7 +18,7 @@ export default function About() {
         <div className="col-lg-6">
           <h1 className="display-5 fw-bold text-primary mb-3">Qualification</h1>
           <p className="lead text-secondary">
-            Nilesh Kushwaha is a dedicated full-stack developer with a solid educational background. He completed his diploma in [Your Field of Study] from Government Polytechnic, Shahjahanpur, which provided him with a strong foundation in technical skills. Nilesh is originally from Deoria, UP, and he graduated from Assumption Public School, Gorakhpur in 2021. His education has equipped him with a robust understanding of technology and development, preparing him to excel in the field of full-stack development.
+            Nilesh Kushwaha is a dedicated full-stack developer with a solid educational background. He completed his diploma in Computer Science from Government Polytechnic, Shahjahanpur, which provided him with a strong foundation in technical skills. Nilesh is originally from Deoria, UP, and he graduated from Assumption Public School, Gorakhpur in 2021. His education has equipped him with a robust understanding of technology and development, preparing him to excel in the field of full-stack development.
           </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
             <a
